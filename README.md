@@ -1,1 +1,3 @@
-<embed src="ELEC_413_Final_Report_IB.pdf" width="800px" height="2100px" />
+[![View the PDF Document](cover.png)](ELEC_413_Final_Report_IB.pdf)
+
+[Click here to download or view the full PDF](ELEC_413_Final_Report_IB.pdf)
